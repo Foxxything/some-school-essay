@@ -1,56 +1,56 @@
 {
-  "paragraphs": {
-    "first": {
-      "Book": "Opening",
-      "Notes": [
-        "Throughout the series of books I have read one topic that remains constant is the discrimination against LGBTQ+ people",
-        "We will explore in-depth sexuality discrimination, trans discrimination and the negative effects of gender roles",
-        "All topics are present in “Keeping you a secret”, “Felix ever after” and “How To Kill a Mockingbird”. "
+  "paragraphs":{
+    "first":{
+      "Book":"Opening",
+      "Notes":[
+        "Throughout the series of books I have read, one topic that remains consistent is the discrimination against LGBTQ+ people.",
+        "We will explore in-depth sexuality discrimination, trans discrimination, and the negative effects of gender roles.",
+        "All topics are present in the books 'Keeping You a Secret,' 'Felix Ever After,' and 'To Kill a Mockingbird.'"
       ]
     },
-    "second": {
-      "Book": "Keeping you a secret",
-      "Notes": [
-        "In the book 'Keeping you a secret' we can see Holland and Cece get hated on for there sexuality",
-        "Several times we can see the abuse they receive from the other people in the book",
-        "examples of this can be seen such as when three male guys had Cece cornered against a vending machine saying crap such as 'Come on, one kiss. Try it, you’ll like it' this is shorty followed by one of the guys slamming Cece against the vending machine",
+    "second":{
+      "Book":"Keeping you a secret",
+      "Notes":[
+        "In the book 'Keeping You a Secret,' we can see Holland and Cece get hated for their sexuality. ",
+        "We can see the abuse they receive from other people several times throughout the book.",
+        "Examples of this can be seen such as when three male guys had Cece cornered against a vending machine saying crap such as 'Come on, one kiss. Try it, you’ll like it' this is shortly followed by one of the guys slamming Cece against the vending machine",
         "Then he says 'Feel this? Huh?'.",
-        "Problem is that this crap still happens to this day, the abuse, the assault and it probably wont ever stop happening",
-        "there will always be people who consider the LGBTQ as 'less than', 'not human' or somebody who thinks they need to die"
+        "The problem is that all of this still happens to this day—the abuse, the assault—and it probably won't stop happening.",
+        "There will always be people who consider the LGBTQ as 'less than', 'not human' or somebody who thinks they need to die"
       ]
     },
-    "third": {
-      "Book": "Felix ever after",
-      "Notes": [
-        "while reading the book 'Felix ever after' it is made clear that people will go far length to stupid crap",
-        "Austin is seen creating a instagram account with the name 'grandequeen69' messaging the protagonist transphobic messages such as 'I’m not trolling you. Im just telling you the truth. You were born a girl. You’ll always be a girl'",
-        "things like this are seen throughout the book.",
-        "transphobia is seen taking meany forms trout the book"
+    "third":{
+      "Book":"Felix ever after",
+      "Notes":[
+        "While reading the book “Felix Ever After” it is made clear that people will go to great lengths for dumb things.",
+        "Austin is seen creating an Instagram account with the name 'grandequeen69' messaging the protagonist transphobic messages such as 'I’m not trolling you. I'm just telling you the truth. You were born a girl. You’ll always be a girl'",
+        "Things like this are commonly seen throughout the book.",
+        "Transphobia is seen taking many forms trout the book"
       ]
     },
-    "forth": {
-      "Book": "How To Kill a Mockingbird",
-      "Notes": [
-        "In the book 'How to Kill a Mockingbird' one of the characters is named 'Scout Finch'",
-        "Scout shows tomboyish behavior such as not want to ware a dress or wanting to follow what all the boys wore doing",
-        "There are all these gender roles applyed to us at a young that we must follow or we are an 'out cast' or 'difrent' and so what?",
-        "i say to hell with gender roles, they have no good effects but they do have negitive effects.",
-        "in 2016 a studdy showed that 'only 10% of primary school teachers are men' and '38% of dads lie to their boss to take time off to spend time with their children",
-        "in the story we see that Scout gets discriminated against for not following the rules set in place for being a female",
-        "in my essay i follow the theam of LGBTQ discrimination and while a tomboy is not part of the LGBTQ comunity it follows the same consept"
+    "forth":{
+      "Book":"How To Kill a Mockingbird",
+      "Notes":[
+        "In the book 'To Kill a Mockingbird' one of the characters is named Scout Finch",
+        "Scout shows tomboyish behaviour, such as not wanting to wear a dress or wanting to follow what all the boys wore doing",
+        "There are all these gender roles applied to us at a young age that we must abide by—lest we are seen as an outcast or different, and so what?",
+        "I say to hell with gender roles, as they have no positive effects, but they do have negative ones.",
+        "In 2016, a study showed that only 10% of primary school teachers are men and that 38% of dads lie to their boss to take time off to spend time with their children.",
+        "In the story, we can see that Scout gets discriminated against for not following the rules that society has set in place for being a female",
+        "in my essay, I follow the theme of LGBTQ discrimination and while a tomboy is not part of the LGBTQ community it follows the same concept"
       ]
     },
-    "fith": {
-      "Book": "Closing pargraph",
-      "Notes": [
-        "In my essays we follow the theam of LGBTQ discrimination",
-        "In 'Keeping you a secret' this takes form of Cece and Holland geting hated on for for whom they chose to date",
-        "in 'Felix ever after' this takes the form of Felix geting hated on for being trans",
-        "finaly in 'to kill a mockingbird' this takes form of scout geting hated on for wanting to braking the gender norms"
+    "fith":{
+      "Book":"Closing pargraph",
+      "Notes":[
+        "In my essays we follow the theme of LGBTQ discrimination",
+        "In 'Keeping You a Secret' this takes the form of Cece and Holland getting hated on for whom they chose to date",
+        "in 'Felix Ever After' this takes the form of Felix getting hated on for being trans",
+        "Finally, in 'To Kill a Mockingbird' this takes the form of scout getting hated on for wanting to break the gender norms"
       ]
     }
   },
-  "Ref": {
-    "Gender Roles": "https://www.iop.org/sites/default/files/2019-07/IGB-gender-stereotypes.pdf"
+  "Ref":{
+    "Gender Roles":"https://www.iop.org/sites/default/files/2019-07/IGB-gender-stereotypes.pdf"
   }
 }
